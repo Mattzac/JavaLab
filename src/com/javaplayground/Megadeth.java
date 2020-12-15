@@ -2,7 +2,7 @@ package com.javaplayground;
 
 public class Megadeth extends MetalBand{
 
-    private String who = "Megadeth said: ";
+    private String who = "Dave said: ";
 
     @Override
     public void numberOneHit() {
